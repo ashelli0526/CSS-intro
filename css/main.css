@@ -1,17 +1,16 @@
 body {
-    background-color: #00c200;
+    background-color: #efefef;
 
 }
 
-h1 {
-    color: pink;
+.css-intro-image{
+    width: 100%;
 }
 
-/* h2 {
-
+.css-intro-section-headline{
+    color: #666;
 }
 
-section {
-
+.css-intro-images{
+    display: flex;
 }
-*/
